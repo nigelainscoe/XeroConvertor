@@ -1,0 +1,20 @@
+Readme
+
+This program seeks to help you upload data to your Xero account.
+
+Important: This program is free. You have not paid for it, you have no rights to support or help from us. There is no guarantee that it will work for you and we accept NO liability for its use or misuse. Having said that, a lot of effort has gone into it and we sincerely hope it helps
+
+This is open source in that you can do what you want with it. The only thing you cannot do is sell it or use substantial parts of the algorythms in other software without our explicit written consent.
+For the avoidance of doubt, mess with it alter it to your need and we'll be happy. Try and sell it without written permission and we will sue your ass.
+
+It covers the following:
+
+Completed:
+Lloyds TSB credit cards. The loser at Lloyds TSB have got the transaction signs the wrong way round in their QIF and CSV files. This program will reverse them so you can import into Xero without messing up your accounts.
+
+In Progress:
+Co-operative Bank. They are so lazy at the Co-op that they can't even be bothered to give you a download of your data (even though they provide it for certain business accounts, so the have the capability). Big corporation - don't they want your custom? This program will turn what you copy and paste of your browser into a transactionally correct file for Xero.
+
+
+
+
